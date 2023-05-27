@@ -18,11 +18,12 @@ Separation of Concerns provides the following advantages in the design and devel
 - Sustainability: Treating each responsibility separately makes the code cleaner, more organized and sustainable.Jul. The isolation of problems and a clear definition of responsibilities facilitate the maintenance and debugging processes.
 - Reusability: The independent development of each responsibility facilitates the reuse of these responsibilities in other projects or in different contexts. The modular structure increases the interchangeability and reusability of components.
 - Testability: Responsibilities can be tested separately, so that the accuracy and functionality of each responsibility can be checked more easily. This also improves the quality of the software. Separation of Concerns is an important principle for managing the complexity of a system, improving the quality of code and making the software development process more efficient.
-SRP(Single Responsibility Principle)
+
+# SRP(Single Responsibility Principle)
 
 The Single Responsibility Principle (SRP) is one of the principles of software engineering. The SRP states that each class or module should have only one responsibility. This principle means that a class should require a change of only one reason.
 
-# SRP provides the following advantages:
+SRP provides the following advantages:
 
 More sustainable code: Having only one responsibility for a class or module makes the code cleaner, more readable Jul more sustainable. The separation of responsibilities makes it easier to better organize and understand the complex codebase.
 - Isolation of changes: Since each responsibility is included in a separate class or module, the impact of one responsibility on other responsibilities is minimized in cases of change or error. This prevents the changes from spreading to other parts and simplifies the maintenance process.
